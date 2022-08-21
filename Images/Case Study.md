@@ -3,7 +3,7 @@
 
 ### Fintech Domain Case Study CommunityFi Enterprise Solutions: Using IoT protocols to benefit the greater community.
 
-![Communityfi Logo doc](Images/Communityfi_Logo.png)
+![Communityfi Logo doc](./Images/Communityfi_Logo.png)
 
 ## Overview and Origin. 
 
@@ -30,4 +30,18 @@ Communityfi should be looking to advance their offerings in line with the advanc
 
 ## Appendix 
 
-Website; https://bit.ly/3A3RuqX, Using Helium for Good: Welcome CommunityFi to the Ecosystem, YouTube Website; https://communityfi.io/communityfi-for-good Blog; https://communityfi.io/blog/f/iot-for-all---earning-more-revenue-with-comunityfi Blog; https://communityfi.io/blog/f/helping-our-communities-through-technology Website; https://www.connectedfresh.com/company Blog; https://www.connectedfresh.com/blog/our-beginnings-in-produce-distribution Website; Complete Guide To Helium Mining | FXCM Markets Website; https://www.heliium.com/token, HNT and Data Credits (helium.com) Website; https://gemini.com/cryptopedia/helium-network-token-map-helium-hotspots-hnt-coin#section-a-network-of-helium-hotspots, Helium Network: Proof of Coverage & Helium Hotspots | Gemini
+Website; https://bit.ly/3A3RuqX, Using Helium for Good: Welcome CommunityFi to the Ecosystem, YouTube 
+
+Website; https://communityfi.io/communityfi-for-good Blog; https://communityfi.io/blog/f/iot-for-all---earning-more-revenue-with-comunityfi 
+
+Blog; https://communityfi.io/blog/f/helping-our-communities-through-technology 
+
+Website; https://www.connectedfresh.com/company 
+
+Blog; https://www.connectedfresh.com/blog/our-beginnings-in-produce-distribution 
+
+Website; Complete Guide To Helium Mining | FXCM Markets 
+
+Website; https://www.heliium.com/token, HNT and Data Credits (helium.com) 
+
+Website; https://gemini.com/cryptopedia/helium-network-token-map-helium-hotspots-hnt-coin#section-a-network-of-helium-hotspots, Helium Network: Proof of Coverage & Helium Hotspots | Gemini
