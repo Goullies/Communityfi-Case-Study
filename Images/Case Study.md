@@ -3,7 +3,7 @@
 
 ### Fintech Domain Case Study CommunityFi Enterprise Solutions: Using IoT protocols to benefit the greater community.
 
-![Communityfi Logo doc](Communityfi_Logo.png)
+![Communityfi Logo doc](Images/Communityfi_Logo.png)
 
 ## Overview and Origin. 
 
@@ -13,7 +13,7 @@ Business Activities. Competitors in the social application of similar technology
 
 Exciting Communityfi stats and directions; Communityfi sensors: currently protecting 1000 meals per week A Communityfi key goal is to protect 250,000 meals per week at no cost while reducing food loss and waste Developed motion sensors, room sensors for theft of goods and vacant property monitoring (even with no connected power) Looking to expand to their community suppliers including supermarkets and transport operators Are developing long range wireless tracking lobster traps in the ocean. Sensors are able detect leaks in vacant properties Will look at development that is driven by need Wearables market is being developed to keep elderly safe or for pet tracking CommunityFi for all… on boarding with dashboards Sensor as a service roll out to any community member for use through the Helium network.
 
-![Communityfi Ad doc](Communityfi_Ad.png)
+![Communityfi Ad doc](Images/Communityfi_Ad.png)
 
 Communityfi’s original business case is based on the rollout of antennas to be used as hotspots that act as nodes. These provide connectivity to nearby devices earning HNT tokens to be used or exchanged. The Helium network is ideally suited as it does not have data caps, over-charges or sim cards to operate and is reported to provide up to 200 times farther connectivity using a combination of LoRaWan and Helium’s long Fi wireless technology.
 
@@ -23,7 +23,7 @@ HNT token are rewarded to hotspots which are paid out based on the volume of dat
 
 ## Next Steps 
 
-![Helium Token doc](Helium_Token.png)
+![Helium Token doc](Images/Helium_Token.png)
 
 Communityfi should be looking to advance their offerings in line with the advancing Helium network protocols of HIP 51 -53 which is being developed and tested for existing infrastructure including the cellular 5G network. Continuing on their proven system with the added flexibility of long range wireless technology could open up further agriculture opportunities in the for profit space. Board acre farming applications include microbial and moisture monitoring would open an automated. Currently an expensive and manual process, an automated service could save the tight farming budgets up to $50,000pa. Communityfi’s “Sensors as a service” business model should assess the viability of integrated LoRaWan to cellular connectivity hubs for distribution in geographically challenged area such as mountainous or vast rural areas. Wireless technology is excellent provided there is no terrain conditions blocking line of sight for the radio signal. Adapting into other networks such as cellular gives a greater application of the current business model. Offerings that keep pace with the Helium protocols would also keep Communityfi at the forefront of technology whilst opening doors to regional areas. These areas offer less competition from current players in the market making a relatively low cost market to fully saturate. Once fully captured, these opportunities would make it challenging and less viable for private companies to penetrate with expensive products or services.
 
