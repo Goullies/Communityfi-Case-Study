@@ -2,7 +2,7 @@
 
 ## Enterprise solutions: Using IoT protocals to benfit the greater community
 
-![Communityfi Logo doc](Images/Communityfi_Logo.png)
+![Communityfi Logo doc](./Images/Communityfi Logo.png)
 
 ## Overview and Origin
 
