@@ -1,5 +1,7 @@
 # Communityfi-Case-Study
-## This is a simple Case Study for the Monash Uni: Assignment 1 Unit 1 Fintech Domain Case Study CommunityFi Enterprise Solutions: Using IoT protocols to benefit the greater community.
+## This is a simple Case Study for the Monash Uni: Assignment 1
+
+### Fintech Domain Case Study CommunityFi Enterprise Solutions: Using IoT protocols to benefit the greater community.
 
 ![Communityfi Logo doc](Communityfi_Logo.png)
 
